@@ -17,7 +17,7 @@ A core of basic script esx.
 
 - MySQL : https://github.com/brouznouf/fivem-mysql-async
 
-# Serveur Ms
+# Ms
 
 0.03ms
 
