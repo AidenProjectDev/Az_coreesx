@@ -8,7 +8,6 @@ A core of basic script esx.
 - esx_basicneeds : https://github.com/nabi11/esx_basicneeds
 - esx_billing : https://github.com/kompots/esx_billing
 - esx_datastore : https://github.com/mitlight/esx_datastore
-- esx_identity
 - esx_optionalneeds : https://github.com/jdotfield/fxserver-esx_optionalneeds
 - esx_skin : https://github.com/mitlight/esx_skin
 - esx_society : https://github.com/RomainForks/fxserver-esx_society
