@@ -1,3 +1,6 @@
+![logo2](https://user-images.githubusercontent.com/76072277/132126816-64cbc4ab-9462-435d-ba62-6fa1bdab4bfb.png)
+
+
 # Az_coreesx
 A core of basic script esx.
 
